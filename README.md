@@ -23,6 +23,10 @@ pip install numpy
 
 
 
+
+
+
+
 Importing needed libraries
 
 import numpy as np
