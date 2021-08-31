@@ -4,7 +4,7 @@
 Hello Friends,
 Today we are going to do magic not by using magic trick but by using Python.Isn't it sound intresting?Offcourse yes!!!!!!!!!
 So lets start building our own invisible cloak using computer vision in python.
-For working on this project we need to know 3 things :
+For working on this project we need to know 3 things :\n
 1)Python - 3.x (we used Python 3.9.6 in this project)
 2)Numpy - 1.19.2
 3)OpenCV - 4.5
@@ -18,13 +18,6 @@ Open Terminal & Type:
 4.And now start writting code for project& for code go with following flow.
 
 ![project_flow](https://user-images.githubusercontent.com/67435373/131524760-7632d457-3b08-4c35-85e1-47c52ac4637a.png)
-
-
-
-
-
-
-
 
 1.Importing needed libraries
 
@@ -43,11 +36,7 @@ Open Terminal & Type:
       
 5.Setting values for cloak & mask.
 here I have selected color as red you can choose of your own and set lower and upper values accordingly.
-      
 <img width="440" alt="6" src="https://user-images.githubusercontent.com/67435373/131544000-238b1bc4-90b1-494f-8b95-7ab56f5677b4.png">
-
-
-      
 6.Using Morphological Transformation to remove noise from cloth and unnecessary things.
 <img width="442" alt="7" src="https://user-images.githubusercontent.com/67435373/131544037-776f24b1-d8dd-4423-b4f2-7aa3f2f634e3.png">
       
