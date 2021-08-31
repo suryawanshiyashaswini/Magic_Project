@@ -1,18 +1,18 @@
 # Magic_Project
 ---
 
-Hello Friends,
-Today we are going to do magic not by using magic trick but by using Python.Isn't it sound intresting?Offcourse yes!!!!!!!!!
-So lets start building our own invisible cloak using computer vision in python.
-For working on this project we need to know 3 things :\n
-1)Python - 3.x (we used Python 3.9.6 in this project)
-2)Numpy - 1.19.2
-3)OpenCV - 4.5
-We are using VSCode editor for this project.
-Steps:
-Create new Project in VSCode .
-Create new file "magic.py"
-Open Terminal & Type:
+Hello Friends,<br/>
+Today we are going to do magic not by using magic trick but by using Python.Isn't it sound intresting?Offcourse yes!!!!!!!!!<br/>
+So lets start building our own invisible cloak using computer vision in python.<br/>
+For working on this project we need to know 3 things :<br/>
+1)Python - 3.x (we used Python 3.9.6 in this project)<br/>
+2)Numpy - 1.19.2<br/>
+3)OpenCV - 4.5<br/>
+We are using VSCode editor for this project.<br/>
+Steps:<br/>
+Create new Project in VSCode .<br/>
+Create new file "magic.py"<br/>
+Open Terminal & Type:<br/>
 
 <img width="265" alt="1" src="https://user-images.githubusercontent.com/67435373/131543101-afe7997f-421e-40ee-96a2-3cc5302ac7b4.png">
 4.And now start writting code for project& for code go with following flow.
