@@ -13,6 +13,7 @@ Steps:
 Create new Project in VSCode .
 Create new file "magic.py"
 Open Terminal & Type:
+
 <img width="265" alt="1" src="https://user-images.githubusercontent.com/67435373/131543101-afe7997f-421e-40ee-96a2-3cc5302ac7b4.png">
 4.And now start writting code for project& for code go with following flow.
 
@@ -48,7 +49,7 @@ here I have selected color as red you can choose of your own and set lower and u
 
       
 6.Using Morphological Transformation to remove noise from cloth and unnecessary things.
-      <img width="442" alt="7" src="https://user-images.githubusercontent.com/67435373/131544037-776f24b1-d8dd-4423-b4f2-7aa3f2f634e3.png">
+<img width="442" alt="7" src="https://user-images.githubusercontent.com/67435373/131544037-776f24b1-d8dd-4423-b4f2-7aa3f2f634e3.png">
       
 7.Combining mask & showing in one frame.
-      <img width="307" alt="8" src="https://user-images.githubusercontent.com/67435373/131544081-73d38029-9613-4311-ab3b-5da587e13137.png">
+<img width="307" alt="8" src="https://user-images.githubusercontent.com/67435373/131544081-73d38029-9613-4311-ab3b-5da587e13137.png">
