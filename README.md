@@ -36,9 +36,14 @@ Open Terminal & Type:
       
 5.Setting values for cloak & mask.
 here I have selected color as red you can choose of your own and set lower and upper values accordingly.
+
 <img width="440" alt="6" src="https://user-images.githubusercontent.com/67435373/131544000-238b1bc4-90b1-494f-8b95-7ab56f5677b4.png">
+
 6.Using Morphological Transformation to remove noise from cloth and unnecessary things.
+
 <img width="442" alt="7" src="https://user-images.githubusercontent.com/67435373/131544037-776f24b1-d8dd-4423-b4f2-7aa3f2f634e3.png">
+
       
 7.Combining mask & showing in one frame.
+
 <img width="307" alt="8" src="https://user-images.githubusercontent.com/67435373/131544081-73d38029-9613-4311-ab3b-5da587e13137.png">
