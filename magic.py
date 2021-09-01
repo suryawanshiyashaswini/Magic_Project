@@ -37,7 +37,7 @@ while (cap.isOpened()):
         img[np.where(mask==255)]=back[np.where(mask==255)]
         
          #Output
-        cv2.imshow("Surprise",img)
+        cv2.imshow("Invisible Cloak",img)
     key = cv2.waitKey(1)
     if key==ord("q"):
         break
